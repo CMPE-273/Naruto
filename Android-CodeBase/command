@@ -1,0 +1,1 @@
+./gradlew run -Pmsg="hi Joji"

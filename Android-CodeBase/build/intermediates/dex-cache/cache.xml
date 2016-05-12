@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_ad577289a3cd98a55c19c22fa8b04a7546ac4c74.jar" />
+    </item>
+    <item
+        jar="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2872d89f67b8cc752c672ce3214e25adf700b4df">
+        <dex dex="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_ef11d89eb920fcc3c039f036cab08f8623c45fbb.jar" />
+    </item>
+    <item
+        jar="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_73972013c0b51697118445e5ef601a1232012759.jar" />
+    </item>
+    <item
+        jar="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f5316dca28f69be990251d7e8ddb6327206a91c4">
+        <dex dex="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/pre-dexed/debug/instant-run_a14f1cc69537c82df24b60aa06ad3883803993fe.jar" />
+    </item>
+    <item
+        jar="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_ab6681eb7cfc7ffd17f350cd9e3e8ba883794b73.jar" />
+    </item>
+    <item
+        jar="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_4d766416c733669ab3b37f87cc628ce843bdd019.jar" />
+    </item>
+    <item
+        jar="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_6c7d43c2867fa7d646ec2b6826f18437d51d34da.jar" />
+    </item>
+    <item
+        jar="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_39737f3d0845780f6ef82bf2f9d82de286b4aa9a.jar" />
+    </item>
+    <item
+        jar="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_fdc76f8a5db8ea1b96eff5cf5c6cf7c74568c681.jar" />
+    </item>
+    <item
+        jar="/Users/joji/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_e774577df611289adadbe876ba06e4d6ea27cc8f.jar" />
+    </item>
+    <item
+        jar="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_dd2d847c2ffadd7ff814bd417e73c0fe737f7281.jar" />
+    </item>
+    <item
+        jar="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_cd63910a9416d6886075074dd520d4abfc45ad04.jar" />
+    </item>
+
+</items>

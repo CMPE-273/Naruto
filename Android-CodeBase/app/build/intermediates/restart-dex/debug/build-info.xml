@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="1"
+    format="7"
+    timestamp="23276881869041" >
+
+    <task
+        name="javac"
+        duration="335" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="331" />
+    <task
+        name="verifier"
+        duration="95" />
+
+    <artifact
+        location="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="23276881869041" >
+        <artifact
+            location="/Users/joji/Desktop/2016Spring/cmpe273/teamProject/cmpe273-sample/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
